@@ -1,0 +1,9 @@
+X-Parsed-By
+xmpDM:audioSampleRate
+channels
+xmpDM:audioCompressor
+xmpDM:audioChannelType
+version
+xmpDM:duration
+Content-Type
+samplerate
